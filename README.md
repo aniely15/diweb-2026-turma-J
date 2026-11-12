@@ -1,2 +1,2 @@
-# diweb-2026-turma-J
-Projeto PHP-1 
+# diweb-Projeto php-J
+LTP-1 
